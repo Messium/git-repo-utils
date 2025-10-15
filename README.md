@@ -1,0 +1,22 @@
+<!--toc:start-->
+- [Create a tmux keybind for fast repo cloning like this:](#create-a-tmux-keybind-for-fast-repo-cloning-like-this)
+- [TODO](#todo)
+<!--toc:end-->
+
+# Tmux keybind
+- Create a tmux keybind for fast repo cloning like this:
+
+```
+```
+```
+```
+bind-key p run-shell "tmux neww ~/dev/git/git-repo-utils/get_my_repos.sh"
+```
+```
+
+
+# TODO
+
+- [ ] add more keybinds
+- [ ] better structure
+- [ ] all stared repos
