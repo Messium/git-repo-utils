@@ -16,3 +16,4 @@ bind-key p run-shell "tmux neww ~/dev/git/git-repo-utils/get_my_repos.sh <USER>"
 - [ ] add more keybinds
 - [ ] better structure
 - [ ] all stared repos
+- [ ] option to fzf to other folders or predfined like ~/.config/
